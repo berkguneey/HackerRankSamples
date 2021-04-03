@@ -1,6 +1,14 @@
 # HackerRankSamples
 ***HackerRank Samples***
 
+**Append And Delete:**
+
+You have two strings of lowercase English letters. You can perform two types of operations on the first string:
+- Append a lowercase English letter to the end of the string.
+- Delete the last character of the string. Performing this operation on an empty string results in an empty string.
+
+Given an integer, k, and two strings, s and t, determine whether or not you can convert s to t by performing exactly k of the above operations on s. If it's possible, print Yes. Otherwise, print No.
+
 **Between Two Sets:**
 
 There will be two arrays of integers. Determine all integers that satisfy the following two conditions:
@@ -38,6 +46,12 @@ around a circular table in sequentially numbered chairs. A chair number will be 
 handed to each prisoner sequentially around the table until all have been distributed.  
 The jailer is playing a little joke, though. The last piece of candy looks like all the others, but it tastes awful. Determine the chair number occupied by the prisoner 
 who will receive that candy.
+
+**Sherlock and Squares:**
+
+Watson likes to challenge Sherlock's math ability. He will provide a starting and ending value that describe a range of integers, inclusive of the endpoints. Sherlock must determine the number of square integers within that range.
+
+Note: A square integer is an integer which is the square of an integer, e.g. 1, 4, 9, 16, 25.
 
 **Sherlock and the Valid String:**
 
