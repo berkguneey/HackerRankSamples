@@ -24,9 +24,19 @@ sorted list. Given a word, create a new word by swapping some or all of its char
 - It must be greater than the original word.
 - It must be the smallest word that meets the first condition.
 
+**Cavity Map:**
+
+You are given a square map as a matrix of integer strings. Each cell of the map has a value denoting its depth. We will call a cell of the map a cavity if and only if this cell is not on the border of the map and each cell adjacent to it has strictly smaller depth. Two cells are adjacent if they have a common side, or edge.
+
+Find all the cavities on the map and replace their depths with the uppercase character X.
+
 **Encryption:**
 
 An English text needs to be encrypted using the following encryption scheme. First, the spaces are removed from the text. Let L be the length of this text.
+
+**Manasa And Stones:**
+
+Manasa is out on a hike with friends. She finds a trail of stones with numbers on them. She starts following the trail and notices that any two consecutive stones' numbers differ by one of two values. Legend has it that there is a treasure trove at the end of the trail. If Manasa can guess the value of the last stone, the treasure will be hers.
 
 **Organizing Containers of Balls:**
 
