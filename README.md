@@ -34,6 +34,14 @@ Find all the cavities on the map and replace their depths with the uppercase cha
 
 An English text needs to be encrypted using the following encryption scheme. First, the spaces are removed from the text. Let L be the length of this text.
 
+**Featured Products:**
+
+An e-commerce site tracks the purchases made each day. The product that is purchased the most one day is the featured product for the following day. If there is a tie for
+the product purchased most frequently, those product names are ordered alphabetically ascending and the last name in the list is chosen.
+
+**Grouping Transactions By Items' Name:**
+Migros-Coderspace Question
+
 **Manasa And Stones:**
 
 Manasa is out on a hike with friends. She finds a trail of stones with numbers on them. She starts following the trail and notices that any two consecutive stones' numbers differ by one of two values. Legend has it that there is a treasure trove at the end of the trail. If Manasa can guess the value of the last stone, the treasure will be hers.
