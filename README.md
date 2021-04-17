@@ -40,6 +40,7 @@ An e-commerce site tracks the purchases made each day. The product that is purch
 the product purchased most frequently, those product names are ordered alphabetically ascending and the last name in the list is chosen.
 
 **Grouping Transactions By Items' Name:**
+
 Migros-Coderspace Question
 
 **Manasa And Stones:**
