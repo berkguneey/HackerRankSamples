@@ -30,6 +30,10 @@ You are given a square map as a matrix of integer strings. Each cell of the map 
 
 Find all the cavities on the map and replace their depths with the uppercase character X.
 
+**Counting Valleys:**
+
+An avid hiker keeps meticulous records of their hikes. During the last hike that took exactly steps steps, for every step it was noted if it was an uphill, U, or a downhill,D  step. Hikes always start and end at sea level, and each step up or down represents a  unit change in altitude. We define the following terms:
+
 **Encryption:**
 
 An English text needs to be encrypted using the following encryption scheme. First, the spaces are removed from the text. Let L be the length of this text.
